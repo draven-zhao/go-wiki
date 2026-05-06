@@ -1,0 +1,8 @@
+wikiPath: /home/zhaosc30/LlmWiki/chinaunicom-knowledge-repository/wiki
+llmUrl: https://openrouter.ai/api/v1/chat/completions
+llmModel: nvidia/nemotron-3-super-120b-a12b:free
+prometheus:
+  tg:
+    url: http://10.172.82.172:59029/api/v1/alerts
+    name: monitor
+    password: "%WDf^cUJxM%r@yDV"
